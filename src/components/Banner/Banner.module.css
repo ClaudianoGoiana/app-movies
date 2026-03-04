@@ -1,0 +1,16 @@
+.banner {
+    width: 100%; /* Largura total da tela  1920x347 */
+    height: 347px;
+    /*background-image: url("/public/images/banner-home.png");*/
+    background-repeat: no-repeat;
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área do banner */
+    background-position: center;
+    padding-top: 68px; /* Para evitar que o conteúdo fique escondido atrás do header */
+}
+
+.banner h3 {
+    font-size: 1rem;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Adiciona uma sombra para melhorar a legibilidade */
+    text-align: center;
+}
