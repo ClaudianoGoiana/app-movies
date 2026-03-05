@@ -11,7 +11,7 @@ const categories = [
   "Como fazer e usar", 
   "Astronomia e Geografia", 
   "Climatologia, Meteorologia, Vegetação", 
-  "Geologia e Hidrografia"
+  "Geologia e Hidrografia"      
 ];
 
 function filterCategory(Id) {
