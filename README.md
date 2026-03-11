@@ -1,3 +1,7 @@
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
 Curso feito pelo professor: [Professor Edson Maia](https://www.youtube.com/watch?v=jNTFojUZeyw)
 # Getting Started with Create React App
 
